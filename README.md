@@ -10,6 +10,7 @@ In this lab, we're going to build the inner workings of our very own music libra
 ### Step 1:
 
 Define a method named `list_artists`. This method should use the `each_key` method to iterate over the hash and return all the artists (the keys). This method should accept a hash as an argument.
+def list_artists()
 
 ### Step 2:
 
